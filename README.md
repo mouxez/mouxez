@@ -8,7 +8,7 @@
 
 ⚡ Fun fact: I'm always looking for tacos :-)
 
--Also I’m looking for help with build automation with GitHub Actions.
+*Also I’m looking for help with build automation with GitHub Actions.
 
 ---
 
