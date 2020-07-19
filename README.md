@@ -1,7 +1,12 @@
 ### Hi there! 👋 I'm Max. I'm a software engineer, frontend developer, and former doctor.
+
+---
+
 📫 How to reach me: just email me mouxez@gmail.com or @mouxez (Telegram)
 🔭 I’m currently working on React js project called 'Six cities'
 ⚡ Fun fact: I'm always looking for tacos :-)
+
+---
 
 <!--
 **mouxez/mouxez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
