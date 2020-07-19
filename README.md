@@ -4,7 +4,7 @@
 
 📫 How to reach me: just email me mouxez@gmail.com or @mouxez (Telegram)
 
-🔭 I’m currently working on React js project called 'Six cities' [Six Cities](https://github.com/mouxez/1025673-six-cities-4)
+🔭 I’m currently working on React js project called [Six Cities](https://github.com/mouxez/1025673-six-cities-4)
 
 ⚡ Fun fact: I'm always looking for tacos :-)
 
