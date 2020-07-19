@@ -3,7 +3,9 @@
 ---
 
 📫 How to reach me: just email me mouxez@gmail.com or @mouxez (Telegram)
+
 🔭 I’m currently working on React js project called 'Six cities'
+
 ⚡ Fun fact: I'm always looking for tacos :-)
 
 ---
