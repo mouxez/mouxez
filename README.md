@@ -4,7 +4,7 @@
 
 📫 How to reach me: just email me mouxez@gmail.com or @mouxez (Telegram)
 
-⚡ Fun fact: I'm always looking for tacos :-)
+⚡ Fun fact: I'm always looking for Japanese food :-)
 
 * Also I’m looking for help with build, test and deploy automation with GitHub Actions.
 
